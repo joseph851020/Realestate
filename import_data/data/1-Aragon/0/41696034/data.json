@@ -1,0 +1,123 @@
+{
+    "createDate": 1475081072066, 
+    "property": {
+        "status": null, 
+        "letFurnishType": null, 
+        "features": [], 
+        "streetViewHeading": null, 
+        "propertyType": "apartment", 
+        "publicsiteUrl": "http://www.rightmove.co.uk/overseas-property/property-41696034.html", 
+        "epcs": [], 
+        "visible": true, 
+        "mobileVirtualToursUrl": "http://www.rightmove.co.uk/overseas-property/mobile-virtualtour/property-41696034.html", 
+        "exactLocationAvailable": false, 
+        "sortDate": 1462468969000, 
+        "googleAnalyticsLabel": "Apartment 2 beds", 
+        "streetViewPitch": null, 
+        "autoEmailReasonType": "new", 
+        "currencyCode": "\u20ac", 
+        "mobileStreetViewUrl": "http://www.rightmove.co.uk/apps/streetview.html?propertyId=41696034", 
+        "soldPricesUrl": null, 
+        "zoomLevel": 13, 
+        "branch": {
+            "development": false, 
+            "name": "Almeria", 
+            "branchLogo": "http://media.rightmove.co.uk/company/clogo_rmchoice_18666_0002.jpeg", 
+            "brandPlusResale": false, 
+            "hideReducedPropsFlag": true, 
+            "brandName": "Grupo Platinum Estates Sl", 
+            "updateDate": 1474368754000, 
+            "address": "Calle El Puntal 2\r\nSan Juan de Los Terreros\r\n04648 Pulpi\r\nAlmeria", 
+            "identifier": 59094, 
+            "brandPlusLettings": false, 
+            "largeBranchLogo": "http://media.rightmove.co.uk/company/clogo_18666_0002.jpeg"
+        }, 
+        "latitude": 39.93328, 
+        "floorplanCount": 0, 
+        "shouldShowPrice": true, 
+        "transactionTypeId": 1, 
+        "development": false, 
+        "telephoneNumber": "03339 391070", 
+        "marketInfoUrl": null, 
+        "mobileVirtualToursNum": 0, 
+        "mobilePropertyMapViewUrl": "http://www.rightmove.co.uk/apps/property-mapview.html?propertyId=41696034", 
+        "price": 82500, 
+        "bedrooms": 2, 
+        "streetViewLatitude": null, 
+        "photos": [
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_01_0000_max_620x414.jpg", 
+                "identifier": 934985190, 
+                "type": "photograph", 
+                "order": 2, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_01_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_02_0000_max_620x414.jpg", 
+                "identifier": 934985178, 
+                "type": "photograph", 
+                "order": 3, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_02_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_03_0000_max_620x414.jpg", 
+                "identifier": 934985196, 
+                "type": "photograph", 
+                "order": 4, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_03_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_04_0000_max_620x414.jpg", 
+                "identifier": 934985202, 
+                "type": "photograph", 
+                "order": 5, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_04_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_05_0000_max_620x414.jpg", 
+                "identifier": 934985184, 
+                "type": "photograph", 
+                "order": 6, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_05_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_06_0000_max_620x414.jpg", 
+                "identifier": 934985208, 
+                "type": "photograph", 
+                "order": 7, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_06_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_07_0000_max_620x414.jpg", 
+                "identifier": 934985214, 
+                "type": "photograph", 
+                "order": 8, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/60k/59094/41696034/59094_VRLS103_IMG_07_0000_max_200x138.jpg"
+            }
+        ], 
+        "premiumDisplay": false, 
+        "address": "Spain - Aragon, Teruel, Abejuela", 
+        "agentRef": "VRLS103", 
+        "virtualTours": [], 
+        "showLettingFeesMessage": false, 
+        "photoCount": 7, 
+        "schoolCheckerUrl": null, 
+        "dateShortlisted": null, 
+        "photoLargeThumbnailUrl": "http://media.rightmove.co.uk/dir/60k/59094/41696034/59094_VRLS103_IMG_01_0000_max_656x437.jpg", 
+        "photoThumbnailUrl": "http://media.rightmove.co.uk/60k/59094/59094_VRLS103_IMG_01_0000.jpg", 
+        "fullDescription": "<p>Bargain priced 2 bedroom apartment located in Urbinisation La Sirena, Villaricos.&nbsp;&nbsp;La Sirena is&nbsp;a small development of 2 and 3 bed properties.&nbsp; This ground floor&nbsp;property has a&nbsp;terrace, roof solarium and underground parking. Quality property with ceramic floor and wall tiling, a generous provision of power points and switches, and pre-installation for air conditioning. Situated in Villaricos, Almeria, which retains the old fashioned simplicity of Spanish village life, whilst having a wealth of facilities; tiny harbours, many different bars and quality restaurants, local shops and traditional Sunday market, a delightful paseo, a sandy beach and a great beach bar; perfect for holiday makers and home owners alike.</p>\r<br />\r<br /><p>Contact us now to arrange to view and reserve this property.</p>\r<br />", 
+        "longitude": -0.86911, 
+        "summary": "Bargain priced 2 bedroom apartment located in Urbinisation La Sirena, Villaricos.\u00a0\u00a0La Sirena is\u00a0a small development of 2 and 3 bed properties.\u00a0 This ground floor\u00a0property has a\u00a0terrace, roof solarium and underground parking. Quality property with ceramic floor and...", 
+        "showMap": true, 
+        "epcGraphs": [], 
+        "priceQualifier": "", 
+        "floorplans": [], 
+        "updateDate": 1474368754000, 
+        "streetViewLongitude": null, 
+        "showStreetView": true, 
+        "overseas": true, 
+        "identifier": 41696034, 
+        "streetViewZoom": null
+    }, 
+    "result": "SUCCESS"
+}

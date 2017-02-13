@@ -1,0 +1,126 @@
+{% extends 'dashboard/base.html' %}
+{% load i18n re_paginator thumbnail %}
+{% block content-header %}
+    <h1>Listings</h1>
+{% endblock %}
+{% block content %}
+
+    {% if messages %}
+        {% for message in messages %}
+            <div class="alert alert-dismissable alert-{{ message.tags }}">
+                <i class="fa fa-check"></i>
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+    <a href="{% url 'add-listing-wizard' 'listingdata' %}" class="btn btn-info btn-flat">{% trans "Add New" %}</a>
+
+    <div class="box">
+        <div class="box-header">
+            <h3 class="box-title">{% trans "Listings" %}</h3>
+        </div>
+        <!-- /.box-header -->
+        <div class="box-body table-responsive">
+            <div id="example2_wrapper" class="dataTables_wrapper form-inline" role="grid">
+                <div class="row">
+                    <div class="col-xs-6"></div>
+                    <div class="col-xs-6"></div>
+                </div>
+                <table id="" class="table table-bordered table-hover dataTable">
+                    <thead>
+                    <tr role="row">
+                        <th class="sorting_asc" role="columnheader" tabindex="0"
+                            aria-sort="ascending" aria-label="">
+                            {% trans "ID" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Title" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Preview" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Price" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Type" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Location" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Agent" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Status" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Featured" %}
+                        </th>
+                        <th class="sorting" role="columnheader" tabindex="0" aria-label="">
+                            {% trans "Image" %}
+                        </th>
+                    </tr>
+                    </thead>
+
+                    <tfoot>
+                    <tr>
+                        <th>ID</th>
+                        <th>{% trans "Title" %}</th>
+                        <th>{% trans "Preview" %}</th>
+                        <th>{% trans "Price" %}</th>
+                        <th>{% trans "Type" %}</th>
+                        <th>{% trans "Location" %}</th>
+                        <th>{% trans "Agent" %}</th>
+                        <th>{% trans "Status" %}</th>
+                        <th>{% trans "Featured" %}</th>
+                        <th>{% trans "Image" %}</th>
+                    </tr>
+                    </tfoot>
+                    <tbody role="alert" aria-live="polite" aria-relevant="all">
+                    {% for listing in object_list %}
+                        <tr class="{% cycle 'even' 'odd' %}">
+                            <td class=" sorting_1"><a
+                                    href="#{# {% url 'update-listing' listing.id %} #}">{{ listing.code }}</a>
+                            </td>
+                            <td><a href="#{# {% url 'update-listing' listing.id %} #}">{{ listing.title }}</a></td>
+                            <td><a target="_blank" href="{{ listing.absolute_url }}">{% trans "Preview" %}</a>
+                            </td>
+                            <td>{{ listing.price }}</td>
+                            <td>{{ listing.get_type_display }}</td>
+                            <td>{{ listing.location }}</td>
+                            <td>{% if listing.agent %}{{ listing.agent }}{% endif %}</td>
+                            <td>
+                                <i class="fa fa-{% if listing.active %}check{% else %}times{% endif %}"></i>
+                            </td>
+                            <td>
+                                <i class="fa fa-{% if listing.featured %}check{% else %}times{% endif %}"></i>
+                            </td>
+                            <td>
+                                {% thumbnail listing.main_image.image "100x60" crop="center" as image %}
+                                    <img src="{{ image.url }}">
+                                {% empty %}
+                                    {% trans "No Image" %}
+                                {% endthumbnail %}
+
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+                <div class="row">
+                    {% if is_paginated %}
+                        <div class="col-xs-6">
+                            <div class="dataTables_paginate paging_bootstrap">
+                                {% pagination_url page_obj %}
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        <!-- /.box-body -->
+    </div>
+
+{% endblock %}

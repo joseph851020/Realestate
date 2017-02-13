@@ -1,0 +1,137 @@
+{
+    "createDate": 1475081059221, 
+    "property": {
+        "status": null, 
+        "letFurnishType": null, 
+        "features": [
+            {
+                "featureDescription": "BREATHTAKING PROPERTY", 
+                "identifier": 243923444, 
+                "sequence": 1
+            }, 
+            {
+                "featureDescription": "Superb views", 
+                "identifier": 243923447, 
+                "sequence": 2
+            }, 
+            {
+                "featureDescription": "Extremely private property", 
+                "identifier": 243923450, 
+                "sequence": 3
+            }, 
+            {
+                "featureDescription": "Very spacious villa - 2,400m2+ internal", 
+                "identifier": 243923453, 
+                "sequence": 4
+            }, 
+            {
+                "featureDescription": "Massive 10,000m2+ plot", 
+                "identifier": 243923456, 
+                "sequence": 5
+            }, 
+            {
+                "featureDescription": "PLEASE CONTACT OUR MARBELLA TEAM FOR MORE INFORMATION", 
+                "identifier": 243923459, 
+                "sequence": 6
+            }
+        ], 
+        "streetViewHeading": null, 
+        "propertyType": "detached villa", 
+        "publicsiteUrl": "http://www.rightmove.co.uk/overseas-property/property-58340612.html", 
+        "epcs": [], 
+        "visible": true, 
+        "mobileVirtualToursUrl": "http://www.rightmove.co.uk/overseas-property/mobile-virtualtour/property-58340612.html", 
+        "exactLocationAvailable": false, 
+        "sortDate": 1458227960000, 
+        "googleAnalyticsLabel": "detached_villa 10 beds", 
+        "streetViewPitch": null, 
+        "autoEmailReasonType": "new", 
+        "currencyCode": "\u20ac", 
+        "mobileStreetViewUrl": "http://www.rightmove.co.uk/apps/streetview.html?propertyId=58340612", 
+        "soldPricesUrl": null, 
+        "zoomLevel": 13, 
+        "branch": {
+            "development": false, 
+            "name": "Marbella", 
+            "branchLogo": "http://media.rightmove.co.uk/brand/brand_logo_41474_0001.jpeg", 
+            "brandPlusResale": false, 
+            "hideReducedPropsFlag": true, 
+            "brandName": " Chestertons Affinity", 
+            "updateDate": 1473157764000, 
+            "address": "3 Vasari Center,\r\nUrb La Alzambra,\r\nPuerto Banus,\r\nMarbella,\r\n29660,\r\nMalaga,\r\nSpain", 
+            "identifier": 90623, 
+            "brandPlusLettings": false, 
+            "largeBranchLogo": "http://media.rightmove.co.uk/brand/brand_logo_41474_0001.jpeg"
+        }, 
+        "latitude": 36.51468, 
+        "floorplanCount": 0, 
+        "shouldShowPrice": true, 
+        "transactionTypeId": 1, 
+        "development": false, 
+        "telephoneNumber": "03339 395916", 
+        "marketInfoUrl": null, 
+        "mobileVirtualToursNum": 0, 
+        "mobilePropertyMapViewUrl": "http://www.rightmove.co.uk/apps/property-mapview.html?propertyId=58340612", 
+        "price": 21500000.0, 
+        "bedrooms": 10, 
+        "streetViewLatitude": null, 
+        "photos": [
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_01_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_01_0000_max_620x414.jpg", 
+                "caption": "Terrace", 
+                "identifier": 1003802561, 
+                "type": "photograph", 
+                "order": 1
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_02_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_02_0000_max_620x414.jpg", 
+                "caption": "Completely flat plot", 
+                "identifier": 1003802555, 
+                "type": "photograph", 
+                "order": 2
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_03_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_03_0000_max_620x414.jpg", 
+                "caption": "Indoor theater", 
+                "identifier": 1003802558, 
+                "type": "photograph", 
+                "order": 3
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_00_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/91k/90623/58340612/90623_R2631242_IMG_00_0000_max_620x414.jpg", 
+                "caption": "Pool and garden", 
+                "identifier": 1003802564, 
+                "type": "photograph", 
+                "order": 4
+            }
+        ], 
+        "premiumDisplay": false, 
+        "address": "Andalusia, Malaga, Marbella", 
+        "agentRef": "R2631242", 
+        "virtualTours": [], 
+        "showLettingFeesMessage": false, 
+        "photoCount": 4, 
+        "schoolCheckerUrl": null, 
+        "dateShortlisted": null, 
+        "photoLargeThumbnailUrl": "http://media.rightmove.co.uk/dir/91k/90623/58340612/90623_R2631242_IMG_01_0000_max_656x437.jpg", 
+        "photoThumbnailUrl": "http://media.rightmove.co.uk/91k/90623/90623_R2631242_IMG_01_0000.jpg", 
+        "fullDescription": "Stunning villa located within an extremely exclusive community in Marbella. Just a short drive from Marbella centre, Puerto Banus and the beach of the World famous Golden Mile. This completely unique villa is set within a completely flat plot of over 10,000m2, and is surrounded by mature tropical gardens with wonderful open sea views. The property has been built and designed to the highest quality, constructed in a modern contemporary style with elegant classic finishes.\r<br />\r<br />For more information and photographs please contact our Marbella team on 0034 952812897.\r<br />\r<br />\r<br /><B>PLEASE CONTACT CHESTERTONS AFFINITY FOR FURTHER DETAILS.\r<br />\r<br />About Us\r<br />\r<br />Chestertons affinity are a unique AIPP and REAS registered and fully regulated real estate agency located in the heart of the Costa del Sol, with just under 80 offices located in 13 countries around the world.  Our Marbella office is situated in Puerto Banus, and we pride ourselves on finding the right property or investment for our valued clients.  Having specialised in the resale property market for over a decade, we have seen the boom and crisis years on the coast, yet managed to react with market conditions and have successfully sold to over 1500 satisfied clients since 2007.\r<br />\r<br />Feel free to visit our Puerto Banus based office and discuss your property requirements with any of our qualified staff, most of whom have over 10 years experience selling property in both Marbella, London and the Middle East, and with this market knowledge we will assist you in finding your perfect property here on the southern coast of Spain.\r<br />Please beware of agencies claiming to \"have all the properties on the market\" and who will \"pass you to a specialist in Spain\" - call our team or request a call back and we will explain exactly how the property market works in Spain.  We have one of the largest 'sole agency' portfolios on the coast, and will show you many properties that only our office have access to.  \r<br />As a buyer you should feel at ease with the agent you choose, remember that buying a home is a massive investment for anyone, and using the right agent is key to any purchase you make, be it a \u008050,000 studio or a \u008036,000,000 villa!\r<br />\r<br />AIPP - Chestertons affinity are a fully approved member of the Association of International Property Professionals, and comply with their principles of honesty, transparency and integrity.  The AIPP is the industry body for the international property market.  AIPP members voluntarily agree to follow a professional code of conduct.\r<br />\r<br />REAS - We are one of the founding members of the Real Estate regulatory body, REAS (Real Estate Association of Spain). Formed during December 2014, REAS aims to regulate the southern coast's Real Estate industry with all members needing to meet a strict qualifying criteria giving you, the consumer, rights and guarantees when making your property purchase (or sale) in Spain.\r<br />\r<br />CHECK THAT YOUR AGENT IS A REGULATED AND REGISTERED MEMBER OF THE ABOVE ORGANISATIONS BEFORE PARTING WITH YOUR PERSONAL DETAILS.</b>\r<br />\r<br />At Chestertons affinity we specialise in offering a tailor made property sourcing service to a client base from around the globe. We operate with a small team of specialists and benefit from a massive combined experience in the property market on the Southern coast of Spain, which means we have been through the boom and the bust of the property cycle in southern Spain - we have the experience to advise you on making a safe and sound purchase here on the coast. \r<br />\r<br />We have been established in the Spanish market for over a decade, and have built up the contacts, the properties and the insider knowledge that can only be gained from giving outstanding service and finding our clients their dream home or investment.  We rarely advertise in the local press, or anywhere else to be frank, we simply operate by recommendation.  Over the years this has become an integral part of our business and we consider our clients to be friends, we often get invited round for a celebratory drink once they have moved into their new home, something we like very much about our jobs! \r<br />\r<br />Chestertons affinity will present to you properties from a number of agencies as well as our own, ensuring that you never experience the \"square peg and round hole\" syndrome, which is often synonymous with many other agencies operating along the coast.  If we don't have the property you are looking for we will work as an independent property finder just for you, ensuring we source the exact property for your requirements, all at no cost of course. \r<br />\r<br />When making a purchase in a foreign country we understand your need for reassurance, information, and most importantly, time.  Chestertons affinity will not create false urgency to push a client into a sale. As we touched on earlier, the majority of our clients come from referral and we value the importance of a good reputation.  You will buy when you are ready to buy, and Chestertons affinity will be there to assist you all of the way.  We believe that once you become our client you will remain our client, forever. \r<br />\r<br />We know the importance of having a friend at the end of a phone to assist you. We offer assistance in the following areas: legal, financial, furnishing, renovation, rentals, bank account set up, schools, and will try to help in any other way that we can - just ask!\r<br />\r<br />Our offices are located in the heart of Puerto Banus, Marbella.  If you would like to meet any of our team for a coffee to discuss buying or selling a property, please call us on (+34) 952812897, (+34) 661383880 or (+34) 666 919135, or alternatively take a look at our website where you can meet the Marbella Team and discover more about Chestertons worldwide.\r<br />\r<br />\r<br /><B>Are you selling your property in Spain? \r<br />\r<br />If you are considering selling your property in Spain please speak to our Puerto Banus team.  Our listings department will handle the entire sales process on your behalf - we do not charge any listing/marketing fees, and you can be assured that your property will be marketed throughout the world at no cost to yourself - quite simply you only pay us if we sell your property (which we will!)  \r<br />\r<br />As one of the largest Real Estate agencies on the southern coast, we have an extremely large number of registered clients just waiting for particular properties to come to the market, with many of our new listings being sold within hours or days of us taking the final photos. \r<br />\r<br />The market here has turned and is no longer a buyers market, so now is a great time to sell your property!</b>", 
+        "longitude": -4.87064, 
+        "summary": "**SPECTACULAR VILLA LOCATED WITHIN AN ABSOLUTELY STUNNING DEVELOPMENT IN MARBELLA - PLEASE CONTACT OUR MARBELLA TEAM FOR MORE INFORMATION AND PHOTOGRAPHS**", 
+        "showMap": true, 
+        "epcGraphs": [], 
+        "priceQualifier": "O.I.R.O", 
+        "floorplans": [], 
+        "updateDate": 1474638944000, 
+        "streetViewLongitude": null, 
+        "showStreetView": true, 
+        "overseas": true, 
+        "identifier": 58340612, 
+        "streetViewZoom": null
+    }, 
+    "result": "SUCCESS"
+}

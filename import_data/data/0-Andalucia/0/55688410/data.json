@@ -1,0 +1,180 @@
+{
+    "createDate": 1475081059485, 
+    "property": {
+        "status": null, 
+        "letFurnishType": null, 
+        "features": [
+            {
+                "featureDescription": "8 bedrooms", 
+                "identifier": 234981961, 
+                "sequence": 1
+            }, 
+            {
+                "featureDescription": "Total area: 2200 sqm", 
+                "identifier": 234981964, 
+                "sequence": 2
+            }, 
+            {
+                "featureDescription": "House area: 1000 sqm", 
+                "identifier": 234981967, 
+                "sequence": 3
+            }, 
+            {
+                "featureDescription": "Swimming Pool", 
+                "identifier": 234981970, 
+                "sequence": 4
+            }, 
+            {
+                "featureDescription": "Air conditioning", 
+                "identifier": 234981973, 
+                "sequence": 5
+            }, 
+            {
+                "featureDescription": "6 bathrooms", 
+                "identifier": 234981976, 
+                "sequence": 6
+            }, 
+            {
+                "featureDescription": "Fireplace", 
+                "identifier": 234981979, 
+                "sequence": 7
+            }
+        ], 
+        "streetViewHeading": null, 
+        "propertyType": "villa", 
+        "publicsiteUrl": "http://www.rightmove.co.uk/overseas-property/property-55688410.html", 
+        "epcs": [], 
+        "visible": true, 
+        "mobileVirtualToursUrl": "http://www.rightmove.co.uk/overseas-property/mobile-virtualtour/property-55688410.html", 
+        "exactLocationAvailable": false, 
+        "sortDate": 1471425675000, 
+        "googleAnalyticsLabel": "Villa 8 beds", 
+        "streetViewPitch": null, 
+        "autoEmailReasonType": "new", 
+        "currencyCode": "\u20ac", 
+        "mobileStreetViewUrl": "http://www.rightmove.co.uk/apps/streetview.html?propertyId=55688410", 
+        "soldPricesUrl": null, 
+        "zoomLevel": 8, 
+        "branch": {
+            "development": false, 
+            "name": "Quarteira", 
+            "branchLogo": "http://media.rightmove.co.uk/company/clogo_rmchoice_37724_0007.jpeg", 
+            "brandPlusResale": false, 
+            "hideReducedPropsFlag": true, 
+            "brandName": "Ideal Homes International", 
+            "updateDate": 1471425646000, 
+            "address": "Vila Sol, Alto do Semino, Lote E, Loja 1, 2 & 3, 8125-307, Quarteira, Portugal", 
+            "identifier": 158795, 
+            "brandPlusLettings": false, 
+            "largeBranchLogo": "http://media.rightmove.co.uk/company/clogo_37724_0007.jpeg"
+        }, 
+        "latitude": 37.83144, 
+        "floorplanCount": 0, 
+        "shouldShowPrice": true, 
+        "transactionTypeId": 1, 
+        "development": false, 
+        "telephoneNumber": "03339 872460", 
+        "marketInfoUrl": null, 
+        "mobileVirtualToursNum": 0, 
+        "mobilePropertyMapViewUrl": "http://www.rightmove.co.uk/apps/property-mapview.html?propertyId=55688410", 
+        "price": 20000000.0, 
+        "bedrooms": 8, 
+        "streetViewLatitude": null, 
+        "photos": [
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_00_0000_max_620x414.jpg", 
+                "identifier": 1103324962, 
+                "type": "photograph", 
+                "order": 1, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_00_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_01_0000_max_620x414.jpg", 
+                "identifier": 1103324983, 
+                "type": "photograph", 
+                "order": 2, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_01_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_02_0000_max_620x414.jpg", 
+                "identifier": 1103324926, 
+                "type": "photograph", 
+                "order": 3, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_02_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_03_0000_max_620x414.jpg", 
+                "identifier": 1103324977, 
+                "type": "photograph", 
+                "order": 4, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_03_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_04_0000_max_620x414.jpg", 
+                "identifier": 1103324971, 
+                "type": "photograph", 
+                "order": 5, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_04_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_05_0000_max_620x414.jpg", 
+                "identifier": 1103324938, 
+                "type": "photograph", 
+                "order": 6, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_05_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_06_0000_max_620x414.jpg", 
+                "identifier": 1103324956, 
+                "type": "photograph", 
+                "order": 7, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_06_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_07_0000_max_620x414.jpg", 
+                "identifier": 1103324989, 
+                "type": "photograph", 
+                "order": 8, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_07_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_08_0000_max_620x414.jpg", 
+                "identifier": 1103324944, 
+                "type": "photograph", 
+                "order": 9, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_08_0000_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_09_0000_max_620x414.jpg", 
+                "identifier": 1103324995, 
+                "type": "photograph", 
+                "order": 10, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/159k/158795/55688410/158795_158795_R2578358_IMG_09_0000_max_200x138.jpg"
+            }
+        ], 
+        "premiumDisplay": false, 
+        "address": "The Golden Mile, M\u00e1laga", 
+        "agentRef": "158795_R2578358", 
+        "virtualTours": [], 
+        "showLettingFeesMessage": false, 
+        "photoCount": 10, 
+        "schoolCheckerUrl": null, 
+        "dateShortlisted": null, 
+        "photoLargeThumbnailUrl": "http://media.rightmove.co.uk/dir/159k/158795/55688410/158795_158795_R2578358_IMG_00_0000_max_656x437.jpg", 
+        "photoThumbnailUrl": "http://media.rightmove.co.uk/159k/158795/158795_158795_R2578358_IMG_00_0000.jpg", 
+        "fullDescription": "A magnificent FRONTLINE beach mansion set in the grounds of the Puente Romano Hotel. Built on three levels, this impressive property is accessed through a private driveway and ornate gardens. The accommodation consists of, ground floor:- entrance hall; guest cloakroom; fully fitted and equipped kitchen with independent entrance; utility room; dining room with steps leading to a bright lounge; two en-suite guest bedrooms with direct access to the terrace with sea views. The lower floor:-  games room;  lounge with minstrels gallery and French windows leading to a covered terrace with bar; guest cloakroom with shower and changing facilities and a large swimming pool with direct access to the gardens and beach. The upper floor:- master bedroom with en-suite Jacuzzi bathroom, dressing room; en-suite guest bedroom. Other features include eight working fireplaces, wine cellar, pool bar, BBQ area with covered terrace. There are separate staff quarters with two bedrooms and one bathroom.<br />REF: R2578358<br /><br />(Posted by proppyrealestate.com)", 
+        "longitude": -4.2229, 
+        "summary": "A magnificent FRONTLINE beach mansion set in the grounds of the Puente Romano Hotel. Built on three levels, this impressive property is accessed through a private driveway and ornate gardens. The accommodation consists of, ground floor:- entrance hall; guest cloakroom; fully fitted and equipped k...", 
+        "showMap": true, 
+        "epcGraphs": [], 
+        "priceQualifier": "", 
+        "floorplans": [], 
+        "updateDate": 1475023423000, 
+        "streetViewLongitude": null, 
+        "showStreetView": true, 
+        "overseas": true, 
+        "identifier": 55688410, 
+        "streetViewZoom": null
+    }, 
+    "result": "SUCCESS"
+}

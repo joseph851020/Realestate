@@ -1,0 +1,260 @@
+{
+    "createDate": 1475081071943, 
+    "property": {
+        "status": null, 
+        "letFurnishType": null, 
+        "features": [
+            {
+                "featureDescription": "Traditional Detached Aragonese Farmhouse", 
+                "identifier": 151794401, 
+                "sequence": 1
+            }, 
+            {
+                "featureDescription": "Wine Pressing Room and Bodega including huge barrels", 
+                "identifier": 151794404, 
+                "sequence": 2
+            }, 
+            {
+                "featureDescription": "Superb views across Sierra de Guara and Pyrenees", 
+                "identifier": 151794407, 
+                "sequence": 3
+            }, 
+            {
+                "featureDescription": "Original Kitchen fireplace", 
+                "identifier": 151794410, 
+                "sequence": 4
+            }, 
+            {
+                "featureDescription": "Huge stone olive oil storage vat", 
+                "identifier": 151794413, 
+                "sequence": 5
+            }, 
+            {
+                "featureDescription": "Plenty of tourist accomodation potential", 
+                "identifier": 154477390, 
+                "sequence": 6
+            }, 
+            {
+                "featureDescription": "2.5 acres of olive terraces with over 20 mature trees", 
+                "identifier": 154477393, 
+                "sequence": 7
+            }, 
+            {
+                "featureDescription": "Room for large swimming pool", 
+                "identifier": 154477396, 
+                "sequence": 8
+            }, 
+            {
+                "featureDescription": "Quiet situation on small cobbled lane", 
+                "identifier": 154477399, 
+                "sequence": 9
+            }, 
+            {
+                "featureDescription": "Shady courtyards", 
+                "identifier": 154477402, 
+                "sequence": 10
+            }
+        ], 
+        "streetViewHeading": null, 
+        "propertyType": "farm house", 
+        "publicsiteUrl": "http://www.rightmove.co.uk/overseas-property/property-38410880.html", 
+        "epcs": [], 
+        "visible": true, 
+        "mobileVirtualToursUrl": "http://www.rightmove.co.uk/overseas-property/mobile-virtualtour/property-38410880.html", 
+        "exactLocationAvailable": true, 
+        "sortDate": 1427307286000, 
+        "googleAnalyticsLabel": "farm_house 5 beds", 
+        "streetViewPitch": null, 
+        "autoEmailReasonType": "price_reduced", 
+        "currencyCode": "\u20ac", 
+        "mobileStreetViewUrl": "http://www.rightmove.co.uk/apps/streetview.html?propertyId=38410880", 
+        "soldPricesUrl": null, 
+        "zoomLevel": 13, 
+        "branch": {
+            "development": false, 
+            "name": "Stuart Rose", 
+            "branchLogo": "http://media.rightmove.co.uk/brand/brand_rmchoice_logo_31628_0000.jpeg", 
+            "brandPlusResale": false, 
+            "hideReducedPropsFlag": true, 
+            "brandName": "Private Seller", 
+            "updateDate": 1435768294000, 
+            "identifier": 87652, 
+            "brandPlusLettings": false, 
+            "largeBranchLogo": "http://media.rightmove.co.uk/brand/brand_logo_31628_0000.jpeg"
+        }, 
+        "latitude": 42.319716, 
+        "floorplanCount": 0, 
+        "shouldShowPrice": true, 
+        "transactionTypeId": 1, 
+        "development": false, 
+        "telephoneNumber": "03339 395497", 
+        "marketInfoUrl": null, 
+        "mobileVirtualToursNum": 0, 
+        "mobilePropertyMapViewUrl": "http://www.rightmove.co.uk/apps/property-mapview.html?propertyId=38410880", 
+        "price": 87500, 
+        "bedrooms": 5, 
+        "streetViewLatitude": null, 
+        "photos": [
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_00_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_00_0000_max_620x414.jpg", 
+                "caption": "Front, Casa Castillo", 
+                "identifier": 397234729, 
+                "type": "photograph", 
+                "order": 1
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_15_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_15_0000_max_620x414.jpg", 
+                "caption": "Casa front & lane", 
+                "identifier": 559703390, 
+                "type": "photograph", 
+                "order": 2
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_04_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_04_0000_max_620x414.jpg", 
+                "caption": "From 1st terrace", 
+                "identifier": 397234741, 
+                "type": "photograph", 
+                "order": 3
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_01_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_01_0000_max_620x414.jpg", 
+                "caption": "Main entrance", 
+                "identifier": 397234732, 
+                "type": "photograph", 
+                "order": 4
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_06_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_06_0000_max_620x414.jpg", 
+                "caption": "Passage to main door", 
+                "identifier": 397234747, 
+                "type": "photograph", 
+                "order": 5
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_07_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_07_0000_max_620x414.jpg", 
+                "caption": "1st floor hall", 
+                "identifier": 397234750, 
+                "type": "photograph", 
+                "order": 6
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_13_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_13_0000_max_620x414.jpg", 
+                "caption": "Stone olive oil vat", 
+                "identifier": 559703384, 
+                "type": "photograph", 
+                "order": 7
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_02_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_02_0000_max_620x414.jpg", 
+                "caption": "To shady courtyard", 
+                "identifier": 397234735, 
+                "type": "photograph", 
+                "order": 8
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_03_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_03_0000_max_620x414.jpg", 
+                "caption": "Rear of Casa", 
+                "identifier": 397234738, 
+                "type": "photograph", 
+                "order": 9
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_16_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_16_0000_max_620x414.jpg", 
+                "caption": "Casa front", 
+                "identifier": 559703387, 
+                "type": "photograph", 
+                "order": 10
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_14_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_14_0000_max_620x414.jpg", 
+                "caption": "Feed trough", 
+                "identifier": 559703381, 
+                "type": "photograph", 
+                "order": 11
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_10_0000_max_200x138.gif", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_10_0000_max_620x414.gif", 
+                "caption": "Ground floor plan", 
+                "identifier": 578145424, 
+                "type": "photograph", 
+                "order": 12
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_11_0000_max_200x138.gif", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_11_0000_max_620x414.gif", 
+                "caption": "First floor plan", 
+                "identifier": 578145418, 
+                "type": "photograph", 
+                "order": 13
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_12_0000_max_200x138.gif", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_12_0000_max_620x414.gif", 
+                "caption": "Second floor plan", 
+                "identifier": 578145421, 
+                "type": "photograph", 
+                "order": 14
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_05_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_05_0000_max_620x414.jpg", 
+                "caption": "Site of old castle", 
+                "identifier": 397234744, 
+                "type": "photograph", 
+                "order": 15
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_08_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_08_0000_max_620x414.jpg", 
+                "caption": "SW from 1st terrace", 
+                "identifier": 397234753, 
+                "type": "photograph", 
+                "order": 16
+            }, 
+            {
+                "thumbnailUrl": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_09_0000_max_200x138.jpg", 
+                "url": "http://media.rightmove.co.uk/88k/87652/38410880/87652_CasaCastill_IMG_09_0000_max_620x414.jpg", 
+                "caption": "From Pena Montanesa", 
+                "identifier": 397234756, 
+                "type": "photograph", 
+                "order": 17
+            }
+        ], 
+        "premiumDisplay": false, 
+        "address": "Aragon, Huesca, Ainsa", 
+        "agentRef": "CasaCastill", 
+        "virtualTours": [], 
+        "showLettingFeesMessage": false, 
+        "photoCount": 17, 
+        "schoolCheckerUrl": null, 
+        "dateShortlisted": null, 
+        "photoLargeThumbnailUrl": "http://media.rightmove.co.uk/dir/88k/87652/38410880/87652_CasaCastill_IMG_00_0000_max_656x437.jpg", 
+        "photoThumbnailUrl": "http://media.rightmove.co.uk/88k/87652/87652_CasaCastill_IMG_00_0000.jpg", 
+        "fullDescription": "<B>\u00a375,000 - Please note that the Rightmove site will not allow us to price Casa Castillo in pounds Sterling in the main price banner. Therefore, in order to avoid currency fluctuations, we have fixed the price in sterling here, and in the Description section.</B>\r<br />\r<br />Casa Castillo is an exciting <B>renovation project</B> set in the foothills of the Pyrenean mountains and close to their ski resorts. It sits on the edge of the beautiful 'Parque Natural de la Sierra y Cano\u00f1es de Guara' in Aragon.  \r<br />\r<br />A comprehensive <B>pdf of the property boundaries</B> and their relationship with the village is available on enquiry.\r<br />\r<br />With a relatively modest amount of money you could have the <B>large, rambling house</B> you've always dreamed of, but could never afford in the UK - and all under sunny Spanish skies.  So what will you get for your money?  Well, you'll finish up with a large, beautiful, traditional farm casa and outbuildings (loads of potential for tourist lets) in one of the most lovely and unspoilt areas of northern Spain.  \r<br />\r<br />To give some idea of the size of the house, the floor areas are approx as follows:\r<br />Ground Floor - 139 sq metres\r<br />First Floor - 139 sq metres\r<br />Second floor - 112 sq metres\r<br />Attic or roof-top terrace - 112 sq metres.\r<br />\r<br />The grounds, covering 12,000 sq m<B> - nearly 2.5 acres - </B>include a terraced hillside on the top of which once stood a Moorish castle - hence the name, Casa Castillo.   On the first terrace, immediately accessible from the house, there is ample room for a large swimming pool. The satellite view on the map shows the position of Casa Castillo in the village, and immediately above the house-icon you can see the terraced hill, approximately half of which belongs to the property.\r<br />\r<br />Highly unusual for village houses in this region, the land is adjacent to the house - perfect for gardeners.  The terraces are planted with <B>27 ancient olive trees</B> that produce the most delicious olives, and there are also pomegranate and fig trees.  \r<br />\r<br />As was typical of this type of casa, the ground floor formerly housed farm animals, and has many <B>original features</B> including a massive stone olive oil storage vat, and feed trough.  There is a short passage to the Bodega - (wine cellar), a stone stairway to the first floor and a doorway to two <B>secluded courtyards.</B>  This space would convert to a superb reception room.\r<br />\r<br />The stone stairs from the ground floor  lead to the first floor landing.  On the west and north west side is the main salon looking out onto the first terrace.  The traditional kitchen is situated on the east and north east side.  It still features the <B>original stone sink and fireplace.</B> To the south, there are two further good sized rooms.\r<br /> \r<br />Stairs from the first floor lead to the second floor landing and the master bedroom occupying the entire length of the west side of the house.  To the east and north there are a further three good sized bedrooms.\r<br />\r<br />Above the 2nd floor there are extensive attics<B> ideal for conversion to a rooftop terrace</B>.\r<br />\r<br />Outside, there are secluded courtyards and <B>outbuildings suitable for conversion to holiday lets.</B>\r<br />\r<br />Casa Castillo is a detached farmhouse and is situated in a small quiet village that benefits from having no through traffic.  The property has <B>water and electricity to the door.</B>\r<br />\r<br />Casa Castillo is near to the medieval town of<B> Ainsa</B> with its fiestas, schools, supermarkets, banks, post office, chemists, health centre and vets, and an abundance of excellent, low cost restaurants. There is a lively market every Tuesday rich with local produce.  To the south is the larger town of<B> Barbastro</B> also with excellent shopping facilities and restaurants.  Produce of the area includes wines from Somontano and Carinena, equal to any France has to offer: fine hams, olive oil and cheeses.  Every February the region is awash with the scent of almond blossom from the many orchards.  \r<br />\r<br />Ainsa is a centre of<B> recreational activities</B> - museums, swimming, equestrian, walking, rock climbing, mountaineering, skiing, mountain biking, hang gliding and paragliding, water activities - fishing, sailing and canoeing  on lake Mediano.  In addition Ainsa is only around 35 kilometers from the French border.  The Pyrenees have recently been designated as a 'World Geological Park'.\r<br />\r<br />There is <B>good motorway access to Barcelona and Zaragoza airports.</B>   There are also good French airports within a 2 hour drive that offer many - low cost - scheduled flights to the UK.\r<br />\r<br />This is a place that has to be visited - or better still, to really be appreciated, lived in.   The Aragonese Pyrenees are a virtually<B> untouched paradise</B> - 'outstanding natural beauty' hardly does justice to this region, with its exquisite mountains and canyons, rich in all sorts of wildlife - bird, plant and animal. ", 
+        "longitude": 0.137265, 
+        "summary": "At \u00a375,000, Casa Castillo will give you the house you could never afford in the UK;\n 5 beds, 4 storeys, 2.5 acres, 27 productive olive trees, room to move, space to breathe and a life style to envy.  And, all that on the edge of a beautiful National Park in the Pyrenees.\nRead on..", 
+        "showMap": true, 
+        "epcGraphs": [], 
+        "priceQualifier": "Guide Price", 
+        "floorplans": [], 
+        "updateDate": 1448705748000, 
+        "streetViewLongitude": null, 
+        "showStreetView": true, 
+        "overseas": true, 
+        "identifier": 38410880, 
+        "streetViewZoom": null
+    }, 
+    "result": "SUCCESS"
+}

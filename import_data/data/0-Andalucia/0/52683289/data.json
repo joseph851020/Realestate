@@ -1,0 +1,213 @@
+{
+    "createDate": 1475081059351, 
+    "property": {
+        "status": null, 
+        "letFurnishType": null, 
+        "features": [
+            {
+                "featureDescription": "Built: 1100 m2", 
+                "identifier": 221169337, 
+                "sequence": 1
+            }, 
+            {
+                "featureDescription": "Plot: 25000000 m2", 
+                "identifier": 221169340, 
+                "sequence": 2
+            }, 
+            {
+                "featureDescription": "Pool: No", 
+                "identifier": 221169343, 
+                "sequence": 3
+            }, 
+            {
+                "featureDescription": "Garden: Yes", 
+                "identifier": 221169346, 
+                "sequence": 4
+            }, 
+            {
+                "featureDescription": "Garage: Yes", 
+                "identifier": 221169349, 
+                "sequence": 5
+            }, 
+            {
+                "featureDescription": "Panoramic view", 
+                "identifier": 221169352, 
+                "sequence": 6
+            }, 
+            {
+                "featureDescription": "Country view", 
+                "identifier": 221169355, 
+                "sequence": 7
+            }, 
+            {
+                "featureDescription": "Mountain view", 
+                "identifier": 221169358, 
+                "sequence": 8
+            }
+        ], 
+        "streetViewHeading": null, 
+        "propertyType": "finca", 
+        "publicsiteUrl": "http://www.rightmove.co.uk/overseas-property/property-52683289.html", 
+        "epcs": [], 
+        "visible": true, 
+        "mobileVirtualToursUrl": "http://www.rightmove.co.uk/overseas-property/mobile-virtualtour/property-52683289.html", 
+        "exactLocationAvailable": false, 
+        "sortDate": 1453289458000, 
+        "googleAnalyticsLabel": "Finca 3 beds", 
+        "streetViewPitch": null, 
+        "autoEmailReasonType": "new", 
+        "currencyCode": "\u20ac", 
+        "mobileStreetViewUrl": "http://www.rightmove.co.uk/apps/streetview.html?propertyId=52683289", 
+        "soldPricesUrl": null, 
+        "zoomLevel": 13, 
+        "branch": {
+            "development": false, 
+            "name": "Estepona", 
+            "branchLogo": "http://media.rightmove.co.uk/company/clogo_rmchoice_38827_0001.png", 
+            "brandPlusResale": false, 
+            "hideReducedPropsFlag": true, 
+            "brandName": "Paradise Marbella Realty, S.L.", 
+            "updateDate": 1463599247000, 
+            "address": "Urb. El Saladillo, Edificio Altair, Oficina 204\r\nEstepona, Malaga\r\n29680", 
+            "identifier": 107818, 
+            "brandPlusLettings": false, 
+            "largeBranchLogo": "http://media.rightmove.co.uk/company/clogo_38827_0001.png"
+        }, 
+        "latitude": 36.51468, 
+        "floorplanCount": 0, 
+        "shouldShowPrice": true, 
+        "transactionTypeId": 1, 
+        "development": false, 
+        "telephoneNumber": "03339 395392", 
+        "marketInfoUrl": null, 
+        "mobileVirtualToursNum": 0, 
+        "mobilePropertyMapViewUrl": "http://www.rightmove.co.uk/apps/property-mapview.html?propertyId=52683289", 
+        "price": 20000000.0, 
+        "bedrooms": 3, 
+        "streetViewLatitude": null, 
+        "photos": [
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_00_0022_max_620x414.jpg", 
+                "identifier": 978009899, 
+                "type": "photograph", 
+                "order": 1, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_00_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_01_0022_max_620x414.jpg", 
+                "identifier": 978009905, 
+                "type": "photograph", 
+                "order": 2, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_01_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_02_0022_max_620x414.jpg", 
+                "identifier": 978009842, 
+                "type": "photograph", 
+                "order": 3, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_02_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_03_0022_max_620x414.jpg", 
+                "identifier": 978009911, 
+                "type": "photograph", 
+                "order": 4, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_03_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_04_0022_max_620x414.jpg", 
+                "identifier": 978009857, 
+                "type": "photograph", 
+                "order": 5, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_04_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_05_0022_max_620x414.jpg", 
+                "identifier": 978009893, 
+                "type": "photograph", 
+                "order": 6, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_05_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_06_0022_max_620x414.jpg", 
+                "identifier": 978009923, 
+                "type": "photograph", 
+                "order": 7, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_06_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_07_0023_max_620x414.jpg", 
+                "identifier": 978009869, 
+                "type": "photograph", 
+                "order": 8, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_07_0023_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_08_0022_max_620x414.jpg", 
+                "identifier": 978009917, 
+                "type": "photograph", 
+                "order": 9, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_08_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_09_0022_max_620x414.jpg", 
+                "identifier": 978009848, 
+                "type": "photograph", 
+                "order": 10, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_09_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_10_0022_max_620x414.jpg", 
+                "identifier": 978009875, 
+                "type": "photograph", 
+                "order": 11, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_10_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_11_0022_max_620x414.jpg", 
+                "identifier": 978009887, 
+                "type": "photograph", 
+                "order": 12, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_11_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_12_0022_max_620x414.jpg", 
+                "identifier": 978009881, 
+                "type": "photograph", 
+                "order": 13, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_12_0022_max_200x138.jpg"
+            }, 
+            {
+                "url": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_13_0022_max_620x414.jpg", 
+                "identifier": 978009863, 
+                "type": "photograph", 
+                "order": 14, 
+                "thumbnailUrl": "http://media.rightmove.co.uk/108k/107818/52683289/107818_107818_PMR-1451_IMG_13_0022_max_200x138.jpg"
+            }
+        ], 
+        "premiumDisplay": false, 
+        "address": "Marbella, Malaga, Spain", 
+        "agentRef": "107818_PMR-1451", 
+        "virtualTours": [], 
+        "showLettingFeesMessage": false, 
+        "photoCount": 14, 
+        "schoolCheckerUrl": null, 
+        "dateShortlisted": null, 
+        "photoLargeThumbnailUrl": "http://media.rightmove.co.uk/dir/108k/107818/52683289/107818_107818_PMR-1451_IMG_00_0022_max_656x437.jpg", 
+        "photoThumbnailUrl": "http://media.rightmove.co.uk/108k/107818/107818_107818_PMR-1451_IMG_00_0022.jpg", 
+        "fullDescription": "Fantastic rustic property in Marbella  \u00a0  Area: 2,500 hectares of agricultural, forestry, livestock and hunting use. The predominant vegetation is the Mediterranean forest. Located 15 km from the center of Marbella and 40 km from the center of Malaga, by paved road.; 750 meters of altitud.  \u00a0  Luxury main house, with more than 1,100 square meters. Service house, four houses distributed by the estate, and an old mansion to rehabilitate.    Buildings for agriculture and ranching. Facilities for horses (stables, boxes, warehouses, etc ..).    Own water springs. In addition to an own swamp. It has cork production of 35,000 quintals.    It has about 4,500 irrigation walnuts in full production. Two private and legalized preserves of hunting.<br /><br />", 
+        "longitude": -4.87064, 
+        "summary": "Fantastic rustic property in Marbella  \u00a0  Area: 2,500 hectares of agricultural, forestry, livestock and hunting use. The predominant vegetation is the Mediterranean forest. Located 15 km from the center of Marbella and 40 km from the center of Malaga, by paved road.; 750 meters of altitud.  \u00a0 ...", 
+        "showMap": true, 
+        "epcGraphs": [], 
+        "priceQualifier": "Guide Price", 
+        "floorplans": [], 
+        "updateDate": 1475053592000, 
+        "streetViewLongitude": null, 
+        "showStreetView": true, 
+        "overseas": true, 
+        "identifier": 52683289, 
+        "streetViewZoom": null
+    }, 
+    "result": "SUCCESS"
+}
